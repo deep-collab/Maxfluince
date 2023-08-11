@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 481.03 123.85">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: FuturaBlaD, 'Futura Black D';
+        font-size: 109.47px;
+      }
+    </style>
+  </defs>
+  <g class="cls-1">
+    <text class="cls-2" transform="translate(0 91.24)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+  <g class="cls-1">
+    <text class="cls-2" transform="translate(56.35 92.48)"><tspan x="0" y="0">E</tspan></text>
+  </g>
+  <g class="cls-1">
+    <text class="cls-2" transform="translate(116.89 91.48)"><tspan x="0" y="0">R</tspan></text>
+  </g>
+  <g class="cls-1">
+    <text class="cls-2" transform="translate(181.02 92.48)"><tspan x="0" y="0">V</tspan></text>
+  </g>
+  <g class="cls-1">
+    <text class="cls-2" transform="translate(250.26 94.48)"><tspan x="0" y="0">I</tspan></text>
+  </g>
+  <g class="cls-1">
+    <text class="cls-2" transform="translate(294.26 94.48)"><tspan x="0" y="0">C</tspan></text>
+  </g>
+  <g class="cls-1">
+    <text class="cls-2" transform="translate(357.44 96.48)"><tspan x="0" y="0">E</tspan></text>
+  </g>
+  <g class="cls-1">
+    <text class="cls-2" transform="translate(418.63 96.48)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+</svg>
